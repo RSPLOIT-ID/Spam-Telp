@@ -15,6 +15,7 @@
 ```
 $ apt update && apt upgrade
 $ pkg install git bash
+$ pkg install curl
 $ git clone https://github.com/RSPLOIT-ID/Spam-Telp
 $ cd Spam-Telp
 $ sh exec.sh
