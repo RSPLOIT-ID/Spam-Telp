@@ -17,7 +17,7 @@ $ apt update && apt upgrade
 $ pkg install git bash
 $ git clone https://github.com/RSPLOIT-ID/Spam-Telp
 $ cd Spam-Telp
-$ ./exec.sh
+$ sh exec.sh
 ```
 # About
 ```
